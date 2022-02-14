@@ -22130,7 +22130,7 @@ msgstr "3. Activer le jeton OAuth et créer un nouveau canal Slack"
 
 #: frontend/src/metabase/admin/settings/slack/components/SlackSetup/SlackSetup.tsx:159
 msgid "Click on \"{0}\" in the sidebar, copy the “{1}” and paste it here."
-msgstr "Cliquez sur \"{0}\" dans la colonne de droite, copiez le \"{1}\" et collez-le ici."
+msgstr "Cliquez sur \"{0}\" dans la colonne de gauche, copiez le \"{1}\" et collez-le ici."
 
 #: frontend/src/metabase/admin/settings/slack/components/SlackSetup/SlackSetup.tsx:160
 msgid "OAuth and Permissions"
